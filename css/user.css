@@ -1,0 +1,73 @@
+.list_title{
+width: 100px;
+float: left;
+}
+.list_title li{
+text-align: center;
+}
+.list_content{
+margin-left: 80px;
+float: left;
+width: 700px;
+}
+.list_content h3{
+margin-top: -10px;
+font-size: 28px;
+margin-bottom: 40px;
+}
+.panel-group{
+margin-top: 40px;
+}
+.panel-title{
+width: 700px;
+}
+.panel-body{
+width: 730px;
+}
+.article_content{
+margin-top: 40px;
+}
+.article_list{
+border-top: 1px solid #eee;
+border-bottom: 1px solid #eee;
+padding: 14px 0;
+}
+.article_list .article_title{
+display: block;
+line-height: 20px;
+}
+.message{
+padding-top: 10px;
+font-size: 13px;
+}
+.message:after{
+display: block;
+content: "";
+clear: both;
+}
+.message .time{
+float: left;
+
+}
+.message .num{
+float: right;
+}
+.message .num .glyphicon{
+font-size: 12px;
+padding-right: 5px;
+}
+.user_img{
+width: 40px;
+height: 40px;
+float: left;
+}
+.comment_area{
+float: right;
+background-color: #f6f8f9;
+padding: 20px;
+width: 640px;
+}
+.comment_area .comment_pos{
+float: right;
+color: #9a9a9a;
+}
